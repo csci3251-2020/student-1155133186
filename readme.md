@@ -18,3 +18,4 @@ good at | still improving
 programming | English
 swimming | Mandarin
 
+![Image of command](https://github.com/csci3251-2020/student-1155133186/blob/master/cmm.PNG)
